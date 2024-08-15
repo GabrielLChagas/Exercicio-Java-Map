@@ -2,7 +2,7 @@ package com.mycompany.exerciciojavamap.Exer1;
 
 import java.util.*;
 
-public class Exerciocio1 {
+public class Exercicio1 {
 
     public static void main(String[] args) {
         System.out.println("Dicionaria de estados e suas populações: ");
